@@ -1,0 +1,34 @@
+h1{
+color: rgb(153, 77, 170);
+}
+
+
+body{.imgbox{
+    background-image: url(bg-1-pick.png);
+    height: 100vh;
+    width:100%;
+    background-size: cover;
+}
+    margin:0;
+ #button {  
+    position: absolute;
+    top: 34.5%;
+    left: 68.5%;
+    border-radius: 50;
+    background-color: transparent;
+    border: transparent;
+}
+ 
+#btn {
+    position: absolute;
+    top: 33%;
+    left: 12.2%;
+    padding: 0%;
+}
+
+#btn3 {
+    position: absolute;
+    top: 34.5%;
+    left: 41.5%;
+    padding:0%;
+}
